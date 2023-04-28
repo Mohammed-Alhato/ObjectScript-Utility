@@ -1,0 +1,11 @@
+Your_PROD_NAME,Invoke_DocumentDownloader,RFT.ERS.Service.InvokeDocumentDownloader,ERS,,,1,,1
+Your_PROD_NAME,Invoke_RefToDB,RFT.ERS.Service.InvokeRefToDB,ERS,,,1,,1
+Your_PROD_NAME,Sch_InvokeReferralProcessor,RFT.ERS.Service.InvokeReferralProcessor,ERS,,,1,,1
+Your_PROD_NAME,Sch_InvokeWorklistProcessor,RFT.ERS.Service.InvokeWorklistProcessor,ERS,,,1,,1
+Your_PROD_NAME,ClinicalInformationDownloadProcessor,RFT.ERS.Process.ClinicalInformationProcessor,ERS,,,1,,2
+Your_PROD_NAME,DocumentDownloadProcess,RFT.ERS.Process.DocumentProcessor,ERS,,,1,,2
+Your_PROD_NAME,ReferralProcessor,RFT.ERS.Process.ReferralProcessor,ERS,,,1,,2
+Your_PROD_NAME,ReferralToDB,RFT.ERS.Process.RefToDB,ERS,,,1,,2
+Your_PROD_NAME,WorklistProcessor,RFT.ERS.Process.WorklistProcessor,ERS,,,1,,2
+Your_PROD_NAME,HttpOut_ERS,RFT.ERS.Operation.ERS,ERS,,,1,,3
+Your_PROD_NAME,ERS_DB_UPDATE,RFT.ERS.Operation.ExecuteQuery,ERS,,,1,,3
