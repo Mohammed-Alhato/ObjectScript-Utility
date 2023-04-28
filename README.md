@@ -1,2 +1,2 @@
 # ObjectScript-Utility
-to create front-end business elements in Production
+to auto-create front-end business elements in Production
